@@ -18,7 +18,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
 
-* Pablo Cosgaya (Original Designer of Asap)
+* Pablo Cosgaya 
 * Nicolas Silva
 
 ### License
