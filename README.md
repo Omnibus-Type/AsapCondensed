@@ -14,7 +14,7 @@ Asap Condensed offers a standarised character width on all styles, which means l
 * SemiBold/SemiBold Italic
 * Bold/Bold Italic
 
-To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
+To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
 ### Designers
 
