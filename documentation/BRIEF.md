@@ -1,6 +1,13 @@
-# Please Fill this text with Brief
+# Asap Condensed
 
 
-### PREAMBLE
+### Brief
 
-Fil this paragraph with the description of the project.
+* Designing and producing 4 masters (Regular, Italic, Bold, Bold Italic)
+for 2 with series (Asap Condensed and Asap).
+
+* Producing 8 instances
+for Asap Condensed (Regular, Medium, SemiBold, Bold).
+
+**Delivery date:**
+Jun 25, 2016 (masters, instances and files), 594 latin glyphs, ttfautohint.
