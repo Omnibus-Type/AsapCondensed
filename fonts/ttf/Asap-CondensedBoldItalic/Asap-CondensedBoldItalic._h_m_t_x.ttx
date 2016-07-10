@@ -555,6 +555,7 @@
     <mtx name="uni2004" width="333" lsb="0"/>
     <mtx name="uni2005" width="250" lsb="0"/>
     <mtx name="uni20B2" width="538" lsb="35"/>
+    <mtx name="uni20B2.bold" width="538" lsb="35"/>
     <mtx name="uni2113" width="343" lsb="-44"/>
     <mtx name="uni2126" width="585" lsb="-3"/>
     <mtx name="uni2153" width="634" lsb="61"/>

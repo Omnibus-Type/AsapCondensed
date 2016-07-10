@@ -23,6 +23,10 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 
 This file provides detailed information on the Asap Condensed font sources.  
 
+**2016 July 9 (v1.006) Added Semibold - Nicolás Silva Schwarzenberg**
+
+- Add new Semibold instance (Medium 100 -> 92).
+- Updated Copyright name registry
 
 **2016 June 4 (v1.005) Initial Commit - Nicolás Silva Schwarzenberg**
 

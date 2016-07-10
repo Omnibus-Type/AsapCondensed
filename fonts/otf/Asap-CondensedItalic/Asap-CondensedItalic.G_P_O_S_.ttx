@@ -758,7 +758,7 @@
       </Lookup>
       <Lookup index="1">
         <!-- LookupType=2 -->
-        <LookupFlag value="0"/>
+        <LookupFlag value="8"/>
         <!-- SubTableCount=3 -->
         <PairPos index="0" Format="1">
           <Coverage>

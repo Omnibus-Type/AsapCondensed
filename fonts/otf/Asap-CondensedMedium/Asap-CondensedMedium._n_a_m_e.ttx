@@ -3,7 +3,7 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'
+      Copyright (c) 2011-2016, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Asap
@@ -12,13 +12,13 @@
       Condensed Medium
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.005;OMNI;Asap-CondensedMedium
+      1.006;OMNI;Asap-CondensedMedium
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Asap Condensed Medium
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.005;PS 001.005;hotconv 1.0.70;makeotf.lib2.5.58329
+      Version 1.006;PS 001.006;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Asap-CondensedMedium
@@ -42,7 +42,7 @@
       http://scripts.sil.org/OFL
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'
+      Copyright (c) 2011-2016, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       Asap Condensed Medium
@@ -51,13 +51,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.005;OMNI;Asap-CondensedMedium
+      1.006;OMNI;Asap-CondensedMedium
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      Asap Condensed Medium
+      Asap-CondensedMedium
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.005;PS 001.005;hotconv 1.0.70;makeotf.lib2.5.58329
+      Version 1.006;PS 001.006;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Asap-CondensedMedium

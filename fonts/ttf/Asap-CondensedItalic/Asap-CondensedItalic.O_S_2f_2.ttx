@@ -21,16 +21,16 @@
     <yStrikeoutPosition value="313"/>
     <sFamilyClass value="0"/>
     <panose>
-      <bFamilyType value="0"/>
-      <bSerifStyle value="0"/>
-      <bWeight value="0"/>
-      <bProportion value="0"/>
-      <bContrast value="0"/>
-      <bStrokeVariation value="0"/>
-      <bArmStyle value="0"/>
-      <bLetterForm value="0"/>
-      <bMidline value="0"/>
-      <bXHeight value="0"/>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="15"/>
+      <bWeight value="5"/>
+      <bProportion value="6"/>
+      <bContrast value="3"/>
+      <bStrokeVariation value="2"/>
+      <bArmStyle value="2"/>
+      <bLetterForm value="13"/>
+      <bMidline value="2"/>
+      <bXHeight value="3"/>
     </panose>
     <ulUnicodeRange1 value="00100000 00000000 00000000 00000111"/>
     <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>

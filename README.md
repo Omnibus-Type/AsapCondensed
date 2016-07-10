@@ -50,6 +50,11 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**2016 July 9 (v1.006) Added Semibold - Nicolás Silva Schwarzenberg**
+
+- Add new Semibold instance (Medium 100 -> 92).
+- Updated Copyright name registry
+
 **2016 June 4 (v1.005) Initial Commit - Nicolás Silva Schwarzenberg**
 
 - Initial Commit

@@ -784,7 +784,7 @@
       </Lookup>
       <Lookup index="1">
         <!-- LookupType=2 -->
-        <LookupFlag value="0"/>
+        <LookupFlag value="8"/>
         <!-- SubTableCount=3 -->
         <PairPos index="0" Format="2">
           <Coverage>
@@ -4026,8 +4026,6 @@
             <ClassDef glyph="Wcircumflex" class="3"/>
             <ClassDef glyph="Wdieresis" class="3"/>
             <ClassDef glyph="Wgrave" class="3"/>
-            <ClassDef glyph="ellipsis" class="4"/>
-            <ClassDef glyph="period" class="4"/>
             <ClassDef glyph="uni0162" class="2"/>
             <ClassDef glyph="uni021A" class="2"/>
             <ClassDef glyph="uni1E6C" class="2"/>
@@ -4045,7 +4043,7 @@
             <ClassDef glyph="uni1EB6" class="1"/>
           </ClassDef2>
           <!-- Class1Count=1 -->
-          <!-- Class2Count=5 -->
+          <!-- Class2Count=4 -->
           <Class1Record index="0">
             <Class2Record index="0">
               <Value1 XAdvance="0"/>
@@ -4059,16 +4057,13 @@
             <Class2Record index="3">
               <Value1 XAdvance="13"/>
             </Class2Record>
-            <Class2Record index="4">
-              <Value1 XAdvance="-21"/>
-            </Class2Record>
           </Class1Record>
         </PairPos>
       </Lookup>
       <Lookup index="2">
         <!-- LookupType=2 -->
-        <LookupFlag value="0"/>
-        <!-- SubTableCount=1 -->
+        <LookupFlag value="8"/>
+        <!-- SubTableCount=2 -->
         <PairPos index="0" Format="1">
           <Coverage>
             <Glyph value="colon"/>
@@ -4091,6 +4086,32 @@
               <Value1 XAdvance="-21"/>
             </PairValueRecord>
           </PairSet>
+        </PairPos>
+        <PairPos index="1" Format="2">
+          <Coverage>
+            <Glyph value="quotedblleft"/>
+            <Glyph value="quotedblright"/>
+            <Glyph value="quoteleft"/>
+            <Glyph value="quoteright"/>
+          </Coverage>
+          <ValueFormat1 value="4"/>
+          <ValueFormat2 value="0"/>
+          <ClassDef1>
+          </ClassDef1>
+          <ClassDef2>
+            <ClassDef glyph="ellipsis" class="1"/>
+            <ClassDef glyph="period" class="1"/>
+          </ClassDef2>
+          <!-- Class1Count=1 -->
+          <!-- Class2Count=2 -->
+          <Class1Record index="0">
+            <Class2Record index="0">
+              <Value1 XAdvance="0"/>
+            </Class2Record>
+            <Class2Record index="1">
+              <Value1 XAdvance="-21"/>
+            </Class2Record>
+          </Class1Record>
         </PairPos>
       </Lookup>
       <Lookup index="3">
@@ -8627,105 +8648,105 @@
           <MarkArray>
             <!-- MarkCount=15 -->
             <MarkRecord index="0">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="0"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="1">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="0"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="2">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="9"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="3">
-              <Class value="1"/>
+              <Class value="0"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="2"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="4">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="3"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="5">
-              <Class value="1"/>
+              <Class value="0"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="-132"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="6">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="-1"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="7">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="1"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="8">
-              <Class value="1"/>
+              <Class value="0"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="3"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="9">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="2"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="10">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="-240"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="11">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="-40"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="12">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="2"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="1"/>
                 <YCoordinate value="523"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="14">
-              <Class value="0"/>
+              <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="-7"/>
                 <YCoordinate value="523"/>
@@ -8738,20 +8759,20 @@
               <!-- ComponentCount=2 -->
               <ComponentRecord index="0">
                 <LigatureAnchor index="0" Format="1">
-                  <XCoordinate value="214"/>
-                  <YCoordinate value="700"/>
-                </LigatureAnchor>
-                <LigatureAnchor index="1" Format="1">
                   <XCoordinate value="146"/>
                   <YCoordinate value="0"/>
                 </LigatureAnchor>
+                <LigatureAnchor index="1" Format="1">
+                  <XCoordinate value="214"/>
+                  <YCoordinate value="700"/>
+                </LigatureAnchor>
               </ComponentRecord>
               <ComponentRecord index="1">
-                <LigatureAnchor index="0" empty="1"/>
-                <LigatureAnchor index="1" Format="1">
+                <LigatureAnchor index="0" Format="1">
                   <XCoordinate value="492"/>
                   <YCoordinate value="0"/>
                 </LigatureAnchor>
+                <LigatureAnchor index="1" empty="1"/>
               </ComponentRecord>
             </LigatureAttach>
           </LigatureArray>

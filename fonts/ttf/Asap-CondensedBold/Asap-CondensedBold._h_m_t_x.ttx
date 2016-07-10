@@ -494,7 +494,7 @@
     <mtx name="uni1EC8" width="262" lsb="52"/>
     <mtx name="uni1EC9" width="254" lsb="53"/>
     <mtx name="uni1ECA" width="262" lsb="52"/>
-    <mtx name="uni1ECB" width="254" lsb="53"/>
+    <mtx name="uni1ECB" width="254" lsb="48"/>
     <mtx name="uni1ECC" width="599" lsb="38"/>
     <mtx name="uni1ECD" width="477" lsb="34"/>
     <mtx name="uni1ECE" width="599" lsb="38"/>
