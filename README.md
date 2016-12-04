@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Asap Condensed offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body.
+Asap Condensed offers a standardized character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body.
 
 ![Sample of Asap Condensed Family.](./documentation/Asap_Condensed.png "Asap Condensed")
 
