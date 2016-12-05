@@ -1,4 +1,4 @@
-# Asap Narrow
+# Asap Condensed
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
