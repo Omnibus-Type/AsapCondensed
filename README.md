@@ -50,6 +50,11 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**2016 December 12 (v1.007) Removed from Source non-exported glyphs - Nicolás Silva Schwarzenberg**
+
+- Remove all Devanagari glyphs and OT rules.
+- Updated advance width in some glyphs
+
 **2016 July 9 (v1.006) Added Semibold - Nicolás Silva Schwarzenberg**
 
 - Add new Semibold instance (Medium 100 -> 92).
