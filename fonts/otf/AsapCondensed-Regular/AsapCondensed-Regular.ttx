@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.4">
+  <GlyphOrder src="AsapCondensed-Regular.GlyphOrder.ttx"/>
+  <head src="AsapCondensed-Regular._h_e_a_d.ttx"/>
+  <hhea src="AsapCondensed-Regular._h_h_e_a.ttx"/>
+  <maxp src="AsapCondensed-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="AsapCondensed-Regular.O_S_2f_2.ttx"/>
+  <name src="AsapCondensed-Regular._n_a_m_e.ttx"/>
+  <cmap src="AsapCondensed-Regular._c_m_a_p.ttx"/>
+  <post src="AsapCondensed-Regular._p_o_s_t.ttx"/>
+  <CFF src="AsapCondensed-Regular.C_F_F_.ttx"/>
+  <GDEF src="AsapCondensed-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="AsapCondensed-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="AsapCondensed-Regular.G_S_U_B_.ttx"/>
+  <STAT src="AsapCondensed-Regular.S_T_A_T_.ttx"/>
+  <hmtx src="AsapCondensed-Regular._h_m_t_x.ttx"/>
+</ttFont>
