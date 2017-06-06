@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.4">
+<ttFont ttLibVersion="3.0">
 
   <hmtx>
     <mtx name=".notdef" width="514" lsb="-20"/>
@@ -71,7 +71,7 @@
     <mtx name="Lcaron" width="408" lsb="48"/>
     <mtx name="Lcommaaccent" width="408" lsb="48"/>
     <mtx name="Ldot" width="408" lsb="48"/>
-    <mtx name="Lslash" width="408" lsb="46"/>
+    <mtx name="Lslash" width="408" lsb="14"/>
     <mtx name="M" width="689" lsb="41"/>
     <mtx name="N" width="590" lsb="41"/>
     <mtx name="NULL" width="0" lsb="0"/>

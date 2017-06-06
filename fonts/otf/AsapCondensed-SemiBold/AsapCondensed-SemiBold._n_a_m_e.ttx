@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.4">
+<ttFont ttLibVersion="3.0">
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
@@ -12,13 +12,13 @@
       SemiBold
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.007;OMNI;AsapCondensed-SemiBold
+      1.008;OMNI;AsapCondensed-SemiBold
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Asap Condensed SemiBold
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.007;PS 001.007;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 1.008;PS 001.008;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       AsapCondensed-SemiBold
@@ -51,13 +51,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.007;OMNI;AsapCondensed-SemiBold
+      1.008;OMNI;AsapCondensed-SemiBold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Asap Condensed SemiBold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.007;PS 001.007;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 1.008;PS 001.008;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       AsapCondensed-SemiBold

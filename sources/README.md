@@ -23,6 +23,12 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 
 This file provides detailed information on the Asap Condensed font sources.  
 
+**2017 June 5 (v1.008) Added STAT tables - Nicolás Silva Schwarzenberg**
+
+- Added STAT tables.
+- Fixed compatibility of Lslash in Roman.
+- Decomposed circumflextilde because of problems with custom anchors names in Glyphs 2.4.2 (1017).
+
 **2016 December 12 (v1.007) Removed from Source non-exported glyphs - Nicolás Silva Schwarzenberg**
 
 - Remove all Devanagari glyphs and OT rules.

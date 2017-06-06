@@ -50,6 +50,12 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**2017 June 5 (v1.008) Added STAT tables - Nicolás Silva Schwarzenberg**
+
+- Added STAT tables.
+- Fixed compatibility of Lslash in Roman.
+- Decomposed circumflextilde because of problems with custom anchors names in Glyphs 2.4.2 (1017).
+
 **2016 December 12 (v1.007) Removed from Source non-exported glyphs - Nicolás Silva Schwarzenberg**
 
 - Remove all Devanagari glyphs and OT rules.

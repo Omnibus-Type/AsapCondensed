@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.4">
+<ttFont ttLibVersion="3.0">
 
   <GPOS>
-    <Version value="0x00010000"/>
+    <Version value="1.0"/>
     <ScriptList>
       <!-- ScriptCount=2 -->
       <ScriptRecord index="0">
@@ -581,7 +581,7 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <SinglePos index="0" Format="1">
-          <Coverage Format="2">
+          <Coverage>
             <Glyph value="A"/>
             <Glyph value="Aacute"/>
             <Glyph value="Abreve"/>
@@ -800,7 +800,7 @@
         <LookupFlag value="8"/>
         <!-- SubTableCount=2 -->
         <PairPos index="0" Format="1">
-          <Coverage Format="1">
+          <Coverage>
             <Glyph value="colon"/>
             <Glyph value="endash"/>
           </Coverage>
@@ -823,7 +823,7 @@
           </PairSet>
         </PairPos>
         <PairPos index="1" Format="2">
-          <Coverage Format="2">
+          <Coverage>
             <Glyph value="quotedblleft"/>
             <Glyph value="quotedblright"/>
             <Glyph value="quoteleft"/>
@@ -831,9 +831,9 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1 Format="2">
+          <ClassDef1>
           </ClassDef1>
-          <ClassDef2 Format="2">
+          <ClassDef2>
             <ClassDef glyph="ellipsis" class="1"/>
             <ClassDef glyph="period" class="1"/>
           </ClassDef2>
@@ -854,7 +854,7 @@
         <LookupFlag value="8"/>
         <!-- SubTableCount=3 -->
         <PairPos index="0" Format="2">
-          <Coverage Format="2">
+          <Coverage>
             <Glyph value="A"/>
             <Glyph value="Aacute"/>
             <Glyph value="Abreve"/>
@@ -992,7 +992,7 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1 Format="2">
+          <ClassDef1>
             <ClassDef glyph="AE" class="2"/>
             <ClassDef glyph="AEacute" class="2"/>
             <ClassDef glyph="C" class="1"/>
@@ -1105,7 +1105,7 @@
             <ClassDef glyph="zcaron" class="14"/>
             <ClassDef glyph="zdotaccent" class="14"/>
           </ClassDef1>
-          <ClassDef2 Format="2">
+          <ClassDef2>
             <ClassDef glyph="A" class="8"/>
             <ClassDef glyph="AE" class="9"/>
             <ClassDef glyph="AEacute" class="9"/>
@@ -2795,7 +2795,7 @@
           </Class1Record>
         </PairPos>
         <PairPos index="1" Format="2">
-          <Coverage Format="2">
+          <Coverage>
             <Glyph value="b"/>
             <Glyph value="c"/>
             <Glyph value="cacute"/>
@@ -2875,7 +2875,7 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1 Format="2">
+          <ClassDef1>
             <ClassDef glyph="b" class="7"/>
             <ClassDef glyph="dcaron" class="1"/>
             <ClassDef glyph="f_f" class="2"/>
@@ -2946,7 +2946,7 @@
             <ClassDef glyph="ydieresis" class="13"/>
             <ClassDef glyph="ygrave" class="13"/>
           </ClassDef1>
-          <ClassDef2 Format="2">
+          <ClassDef2>
             <ClassDef glyph="a" class="17"/>
             <ClassDef glyph="aacute" class="17"/>
             <ClassDef glyph="abreve" class="17"/>
@@ -4063,7 +4063,7 @@
           </Class1Record>
         </PairPos>
         <PairPos index="2" Format="2">
-          <Coverage Format="2">
+          <Coverage>
             <Glyph value="quotedblleft"/>
             <Glyph value="quotedblright"/>
             <Glyph value="quoteleft"/>
@@ -4071,9 +4071,9 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1 Format="2">
+          <ClassDef1>
           </ClassDef1>
-          <ClassDef2 Format="2">
+          <ClassDef2>
             <ClassDef glyph="A" class="1"/>
             <ClassDef glyph="Aacute" class="1"/>
             <ClassDef glyph="Abreve" class="1"/>
@@ -4132,7 +4132,7 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage Format="2">
+          <MarkCoverage>
             <Glyph value="uni0308"/>
             <Glyph value="uni0307"/>
             <Glyph value="gravecomb"/>
@@ -4149,7 +4149,7 @@
             <Glyph value="uni0326"/>
             <Glyph value="uni0327"/>
           </MarkCoverage>
-          <BaseCoverage Format="1">
+          <BaseCoverage>
             <Glyph value="cent"/>
             <Glyph value="yen"/>
           </BaseCoverage>
@@ -4292,7 +4292,7 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage Format="2">
+          <MarkCoverage>
             <Glyph value="uni0308"/>
             <Glyph value="uni0307"/>
             <Glyph value="gravecomb"/>
@@ -4309,7 +4309,7 @@
             <Glyph value="uni0326"/>
             <Glyph value="uni0327"/>
           </MarkCoverage>
-          <BaseCoverage Format="2">
+          <BaseCoverage>
             <Glyph value="A"/>
             <Glyph value="Aacute"/>
             <Glyph value="Abreve"/>
@@ -8797,7 +8797,7 @@
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkLigPos index="0" Format="1">
-          <MarkCoverage Format="2">
+          <MarkCoverage>
             <Glyph value="uni0308"/>
             <Glyph value="uni0307"/>
             <Glyph value="gravecomb"/>
@@ -8814,7 +8814,7 @@
             <Glyph value="uni0326"/>
             <Glyph value="uni0327"/>
           </MarkCoverage>
-          <LigatureCoverage Format="1">
+          <LigatureCoverage>
             <Glyph value="f_t"/>
           </LigatureCoverage>
           <!-- ClassCount=2 -->
@@ -8956,12 +8956,12 @@
         <LookupFlag value="256"/>
         <!-- SubTableCount=1 -->
         <MarkMarkPos index="0" Format="1">
-          <Mark1Coverage Format="2">
+          <Mark1Coverage>
             <Glyph value="dotbelowcomb"/>
             <Glyph value="uni0326"/>
             <Glyph value="uni0327"/>
           </Mark1Coverage>
-          <Mark2Coverage Format="2">
+          <Mark2Coverage>
             <Glyph value="dotbelowcomb"/>
             <Glyph value="uni0326"/>
             <Glyph value="uni0327"/>
@@ -9026,7 +9026,7 @@
         <LookupFlag value="512"/>
         <!-- SubTableCount=1 -->
         <MarkMarkPos index="0" Format="1">
-          <Mark1Coverage Format="2">
+          <Mark1Coverage>
             <Glyph value="uni0308"/>
             <Glyph value="uni0307"/>
             <Glyph value="gravecomb"/>
@@ -9040,7 +9040,7 @@
             <Glyph value="uni0304"/>
             <Glyph value="hookabovecomb"/>
           </Mark1Coverage>
-          <Mark2Coverage Format="2">
+          <Mark2Coverage>
             <Glyph value="uni0308"/>
             <Glyph value="uni0307"/>
             <Glyph value="gravecomb"/>

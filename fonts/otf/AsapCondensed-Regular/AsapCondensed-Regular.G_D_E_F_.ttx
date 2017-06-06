@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.4">
+<ttFont ttLibVersion="3.0">
 
   <GDEF>
-    <Version value="0x00010000"/>
-    <GlyphClassDef Format="2">
+    <Version value="1.0"/>
+    <GlyphClassDef>
       <ClassDef glyph="A" class="1"/>
       <ClassDef glyph="AE" class="1"/>
       <ClassDef glyph="AEacute" class="1"/>
@@ -421,7 +421,7 @@
       <ClassDef glyph="zdotaccent" class="1"/>
     </GlyphClassDef>
     <LigCaretList>
-      <Coverage Format="1">
+      <Coverage>
         <Glyph value="f_t"/>
         <Glyph value="fi"/>
       </Coverage>
@@ -439,7 +439,7 @@
         </CaretValue>
       </LigGlyph>
     </LigCaretList>
-    <MarkAttachClassDef Format="2">
+    <MarkAttachClassDef>
       <ClassDef glyph="acutecomb" class="2"/>
       <ClassDef glyph="dotbelowcomb" class="1"/>
       <ClassDef glyph="gravecomb" class="2"/>

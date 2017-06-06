@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.4">
+<ttFont ttLibVersion="3.0">
 
   <CFF>
-    <major value="1"/>
-    <minor value="0"/>
     <CFFFont name="AsapCondensed-Regular">
-      <version value="001.007"/>
+      <version value="001.008"/>
       <Notice value="Copyright 2017 The Asap Condensed Project Authors \(https://github.com/Omnibus-Type/AsapCondensed\) with Reserved Font Name &quot;Asap&quot;."/>
       <FullName value="Asap Condensed Regular"/>
       <Weight value="Regular"/>

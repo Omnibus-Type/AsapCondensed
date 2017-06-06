@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.4">
+<ttFont ttLibVersion="3.0">
 
   <hmtx>
     <mtx name=".notdef" width="514" lsb="7"/>
@@ -70,7 +70,7 @@
     <mtx name="Lcaron" width="408" lsb="64"/>
     <mtx name="Lcommaaccent" width="408" lsb="64"/>
     <mtx name="Ldot" width="408" lsb="64"/>
-    <mtx name="Lslash" width="408" lsb="64"/>
+    <mtx name="Lslash" width="408" lsb="9"/>
     <mtx name="M" width="689" lsb="59"/>
     <mtx name="N" width="590" lsb="59"/>
     <mtx name="Nacute" width="590" lsb="59"/>
@@ -123,10 +123,10 @@
     <mtx name="Utilde" width="583" lsb="57"/>
     <mtx name="V" width="508" lsb="9"/>
     <mtx name="W" width="752" lsb="10"/>
-    <mtx name="Wacute" width="752" lsb="11"/>
-    <mtx name="Wcircumflex" width="752" lsb="11"/>
-    <mtx name="Wdieresis" width="752" lsb="11"/>
-    <mtx name="Wgrave" width="752" lsb="11"/>
+    <mtx name="Wacute" width="752" lsb="10"/>
+    <mtx name="Wcircumflex" width="752" lsb="10"/>
+    <mtx name="Wdieresis" width="752" lsb="10"/>
+    <mtx name="Wgrave" width="752" lsb="10"/>
     <mtx name="X" width="506" lsb="13"/>
     <mtx name="Y" width="484" lsb="8"/>
     <mtx name="Y.loclGUA" width="498" lsb="49"/>
