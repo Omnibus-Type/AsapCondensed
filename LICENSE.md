@@ -1,4 +1,4 @@
-Copyright (c) 2014-2016, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com).
+Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed) with Reserved Font Name "Asap Condensed".
 
 
 *This Font Software is licensed under the SIL Open Font License, Version 1.1.
