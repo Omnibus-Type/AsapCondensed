@@ -14,7 +14,7 @@ code = "";
 name = xxxx;
 }
 );
-copyright = "Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed), with Reserved Font Name \"Asap Condensed\".";
+copyright = "Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed) with Reserved Font Name \"Asap Condensed\".";
 customParameters = (
 {
 name = trademark;
@@ -59662,6 +59662,7 @@ interpolationWidth = 80;
 instanceInterpolations = {
 "6662946B-F990-402F-A6FD-22D24AB84B33" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 widthClass = Condensed;
