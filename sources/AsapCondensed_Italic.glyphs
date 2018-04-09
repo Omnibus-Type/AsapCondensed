@@ -1,9 +1,5 @@
 {
-.appVersion = "1126";
-DisplayStrings = (
-"0/florin 0",
-"/guarani 180"
-);
+.appVersion = "1127";
 classes = (
 {
 automatic = 1;
@@ -53,6 +49,19 @@ value = (
 "{523, 8}",
 "{0, -8}"
 );
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = "Variation Font Origin";
+value = "E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03";
 }
 );
 date = "2018-04-01 21:49:24 +0000";
@@ -587,13 +596,12 @@ alignmentZones = (
 "{-208, -6}",
 "{-228, -8}"
 );
-ascender = 755;
+ascender = 934;
 capHeight = 700;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 955;
+value = 1055;
 },
 {
 name = typoDescender;
@@ -638,9 +646,18 @@ value = "0";
 {
 name = strikeoutSize;
 value = "72";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
 }
 );
-descender = -245;
+}
+);
+descender = -212;
 guideLines = (
 {
 position = "{407, 857}";
@@ -676,7 +693,6 @@ verticalStems = (
 91
 );
 weightValue = 76;
-width = Condensed;
 widthValue = 80;
 xHeight = 523;
 },
@@ -689,13 +705,12 @@ alignmentZones = (
 "{-206, -6}",
 "{-232, -8}"
 );
-ascender = 755;
+ascender = 934;
 capHeight = 700;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 955;
+value = 1055;
 },
 {
 name = typoDescender;
@@ -740,9 +755,18 @@ value = "0";
 {
 name = strikeoutSize;
 value = "117";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
 }
 );
-descender = -245;
+}
+);
+descender = -212;
 guideLines = (
 {
 position = "{64, 581}";
@@ -763,9 +787,9 @@ horizontalStems = (
 131,
 117
 );
+iconName = Bold_Condensed;
 id = "373C5ECE-2403-4F88-B498-8D3B1E7E9A2C";
 italicAngle = 6;
-name = "Condensed Bold Italic";
 userData = {
 GSCornerRadius = 30;
 };
@@ -774,8 +798,7 @@ verticalStems = (
 159
 );
 weight = Bold;
-weightValue = 131;
-width = Condensed;
+weightValue = 129;
 widthValue = 80;
 xHeight = 523;
 }
@@ -74049,6 +74072,10 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 76;
@@ -74057,6 +74084,7 @@ instanceInterpolations = {
 "E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03" = 1;
 };
 isItalic = 1;
+linkStyle = Regular;
 name = Italic;
 widthClass = Condensed;
 },
@@ -74076,13 +74104,17 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 92;
 interpolationWidth = 80;
 instanceInterpolations = {
-"373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 0.29091;
-"E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03" = 0.70909;
+"373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 0.30189;
+"E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03" = 0.69811;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -74106,13 +74138,17 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 111;
 interpolationWidth = 80;
 instanceInterpolations = {
-"373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 0.63636;
-"E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03" = 0.36364;
+"373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 0.66038;
+"E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03" = 0.33962;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -74136,15 +74172,20 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 131;
+interpolationWeight = 129;
 interpolationWidth = 80;
 instanceInterpolations = {
 "373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 1;
 };
 isBold = 1;
 isItalic = 1;
+linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 widthClass = Condensed;
