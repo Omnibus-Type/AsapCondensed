@@ -1,8 +1,5 @@
 {
-.appVersion = "1127";
-DisplayStrings = (
-" "
-);
+.appVersion = "1128";
 classes = (
 {
 automatic = 1;
@@ -579,11 +576,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 934;
 },
 {
 name = typoDescender;
-value = -264;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -591,19 +588,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1055;
+value = 934;
 },
 {
 name = winDescent;
-value = 264;
+value = 212;
 },
 {
 name = hheaAscender;
-value = 1055;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -264;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -708,11 +705,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 934;
 },
 {
 name = typoDescender;
-value = -264;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -720,19 +717,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1055;
+value = 934;
 },
 {
 name = winDescent;
-value = 264;
+value = 212;
 },
 {
 name = hheaAscender;
-value = 1055;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -264;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -59557,10 +59554,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 77;
@@ -59587,10 +59580,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 92;
@@ -59619,10 +59608,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 111;
@@ -59651,10 +59636,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 129;
@@ -59662,7 +59643,6 @@ interpolationWidth = 80;
 instanceInterpolations = {
 "6662946B-F990-402F-A6FD-22D24AB84B33" = 1;
 };
-isBold = 1;
 name = Bold;
 weightClass = Bold;
 widthClass = Condensed;
@@ -59876,6 +59856,7 @@ comma = -30;
 "@MMK_R_o" = -40;
 };
 "@MMK_L_r" = {
+"@MMK_R_a" = -20;
 "@MMK_R_f" = -10;
 "@MMK_R_g" = -30;
 "@MMK_R_o" = -20;
@@ -60117,6 +60098,7 @@ one = -30;
 "@MMK_R_o" = -40;
 };
 "@MMK_L_r" = {
+"@MMK_R_a" = -20;
 "@MMK_R_f" = -10;
 "@MMK_R_g" = -30;
 "@MMK_R_o" = -20;
