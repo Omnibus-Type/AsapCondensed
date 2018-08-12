@@ -22,6 +22,7 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 ## FONTLOG for the Sources of Asap Condensed fonts
 
 This file provides detailed information on the Asap Condensed font sources.  
+
 **2018 April 3 (v2.001) Some major improvements - Yorlmar Campos**
 
 - On development.
