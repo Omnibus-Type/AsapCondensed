@@ -11,7 +11,7 @@ code = "";
 name = xxxx;
 }
 );
-copyright = "Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed) with Reserved Font Name \"Asap Condensed\".";
+copyright = "Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed), with Reserved Font Name \"(Asap Condensed)\".";
 customParameters = (
 {
 name = trademark;
@@ -45,27 +45,6 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Family Alignment Zones";
-value = (
-"{700, 8}",
-"{523, 8}",
-"{0, -8}"
-);
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variation Font Origin";
-value = "76F17502-367F-435E-B23E-ED9D928E777B";
 }
 );
 date = "2018-04-01 21:49:23 +0000";
@@ -607,11 +586,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 242;
 },
 {
 name = hheaAscender;
@@ -626,29 +605,12 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 72;
-},
-{
 name = strikeoutPosition;
 value = "0";
 },
 {
 name = strikeoutSize;
 value = "72";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 descender = -212;
@@ -724,11 +686,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 242;
 },
 {
 name = hheaAscender;
@@ -743,29 +705,12 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 117;
-},
-{
 name = strikeoutPosition;
 value = "0";
 },
 {
 name = strikeoutSize;
 value = "117";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 descender = -212;
@@ -60491,7 +60436,6 @@ instanceInterpolations = {
 "76F17502-367F-435E-B23E-ED9D928E777B" = 1;
 };
 name = Regular;
-widthClass = Condensed;
 },
 {
 customParameters = (
@@ -60523,7 +60467,6 @@ instanceInterpolations = {
 };
 name = Medium;
 weightClass = Medium;
-widthClass = Condensed;
 },
 {
 customParameters = (
@@ -60555,7 +60498,6 @@ instanceInterpolations = {
 };
 name = SemiBold;
 weightClass = SemiBold;
-widthClass = Condensed;
 },
 {
 customParameters = (
@@ -60584,9 +60526,9 @@ interpolationWidth = 80;
 instanceInterpolations = {
 "6662946B-F990-402F-A6FD-22D24AB84B33" = 1;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
-widthClass = Condensed;
 }
 );
 kerning = {
