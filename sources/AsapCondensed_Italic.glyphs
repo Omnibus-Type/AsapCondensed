@@ -1,5 +1,8 @@
 {
 .appVersion = "1161";
+DisplayStrings = (
+m
+);
 classes = (
 {
 automatic = 1;
@@ -7,7 +10,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed) with Reserved Font Name \"Asap Condensed\".";
+copyright = "Copyright 2018 The Asap Condensed Project Authors (https://github.com/Omnibus-Type/AsapCondensed), with Reserved Font Name \"(Asap Condensed)\".";
 customParameters = (
 {
 name = trademark;
@@ -41,27 +44,6 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Family Alignment Zones";
-value = (
-"{700, 8}",
-"{523, 8}",
-"{0, -8}"
-);
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variation Font Origin";
-value = "E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03";
 }
 );
 date = "2018-04-01 21:49:24 +0000";
@@ -632,11 +614,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 242;
 },
 {
 name = hheaAscender;
@@ -651,29 +633,12 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 72;
-},
-{
 name = strikeoutPosition;
 value = "0";
 },
 {
 name = strikeoutSize;
 value = "72";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 descender = -212;
@@ -749,11 +714,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 242;
 },
 {
 name = hheaAscender;
@@ -768,29 +733,12 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 117;
-},
-{
 name = strikeoutPosition;
 value = "0";
 },
 {
 name = strikeoutSize;
 value = "117";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 descender = -212;
@@ -31401,6 +31349,7 @@ nodes = (
 "403 9 OFFCURVE",
 "405 30 CURVE SMOOTH",
 "449 449 LINE",
+"413 396 LINE",
 "418 347 LINE",
 "430 372 OFFCURVE",
 "459 409 OFFCURVE",
@@ -31572,6 +31521,7 @@ nodes = (
 "375 6 OFFCURVE",
 "376 20 CURVE SMOOTH",
 "420 422 LINE",
+"397 404 LINE",
 "409 366 LINE",
 "415 398 OFFCURVE",
 "458 456 OFFCURVE",
@@ -75145,7 +75095,6 @@ instanceInterpolations = {
 };
 isItalic = 1;
 name = Italic;
-widthClass = Condensed;
 },
 {
 customParameters = (
@@ -75179,7 +75128,6 @@ isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
-widthClass = Condensed;
 },
 {
 customParameters = (
@@ -75213,7 +75161,6 @@ isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic ";
 weightClass = SemiBold;
-widthClass = Condensed;
 },
 {
 customParameters = (
@@ -75246,7 +75193,6 @@ isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
 weightClass = Bold;
-widthClass = Condensed;
 }
 );
 kerning = {
