@@ -7,4 +7,4 @@
 
 Omnibus-Type
 Pablo Cosgaya <omnibus.type@gmail.com>
-Nicolas Silva <omnibus.type@gmail.com>
+Nicolás Silva <omnibus.type@gmail.com>
