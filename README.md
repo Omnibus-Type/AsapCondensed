@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-![Sample of Asap Condensed Family.](../documentation/Asap_Condensed.png "Asap Condensed")
+![Sample of Asap Condensed Family.](/documentation/Asap_Condensed.png "Asap Condensed")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -54,11 +54,11 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **D:** Typeface development  
 
 **N:** **Pablo Cosgaya**  
-**E:** omnibus.type@gmail.com  
+**E:** omnibus.type@gmail.com
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Yorlmar Campos**  
-**E:** omnibus.type@gmail.com 
-**W:** http://www.omnibus-type.com  
+**N:** **Yorlmar Campos**
+**E:** omnibus.type@gmail.com
+**W:** http://www.omnibus-type.com
 **D:** Typeface development 
